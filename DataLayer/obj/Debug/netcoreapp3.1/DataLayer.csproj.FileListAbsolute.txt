@@ -1,0 +1,8 @@
+C:\Users\littu\source\repos\MakeFileTest\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Users\littu\source\repos\MakeFileTest\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\littu\source\repos\MakeFileTest\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\littu\source\repos\MakeFileTest\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\littu\source\repos\MakeFileTest\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\littu\source\repos\MakeFileTest\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\littu\source\repos\MakeFileTest\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\littu\source\repos\MakeFileTest\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb

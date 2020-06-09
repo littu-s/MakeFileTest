@@ -1,0 +1,16 @@
+C:\Users\littu\source\repos\MakeFileTest\PartA\bin\Debug\netcoreapp3.1\PartA.exe
+C:\Users\littu\source\repos\MakeFileTest\PartA\bin\Debug\netcoreapp3.1\PartA.deps.json
+C:\Users\littu\source\repos\MakeFileTest\PartA\bin\Debug\netcoreapp3.1\PartA.runtimeconfig.json
+C:\Users\littu\source\repos\MakeFileTest\PartA\bin\Debug\netcoreapp3.1\PartA.runtimeconfig.dev.json
+C:\Users\littu\source\repos\MakeFileTest\PartA\bin\Debug\netcoreapp3.1\PartA.dll
+C:\Users\littu\source\repos\MakeFileTest\PartA\bin\Debug\netcoreapp3.1\PartA.pdb
+C:\Users\littu\source\repos\MakeFileTest\PartA\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\littu\source\repos\MakeFileTest\PartA\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\littu\source\repos\MakeFileTest\PartA\obj\Debug\netcoreapp3.1\PartA.csprojAssemblyReference.cache
+C:\Users\littu\source\repos\MakeFileTest\PartA\obj\Debug\netcoreapp3.1\PartA.AssemblyInfoInputs.cache
+C:\Users\littu\source\repos\MakeFileTest\PartA\obj\Debug\netcoreapp3.1\PartA.AssemblyInfo.cs
+C:\Users\littu\source\repos\MakeFileTest\PartA\obj\Debug\netcoreapp3.1\PartA.csproj.CoreCompileInputs.cache
+C:\Users\littu\source\repos\MakeFileTest\PartA\obj\Debug\netcoreapp3.1\PartA.csproj.CopyComplete
+C:\Users\littu\source\repos\MakeFileTest\PartA\obj\Debug\netcoreapp3.1\PartA.dll
+C:\Users\littu\source\repos\MakeFileTest\PartA\obj\Debug\netcoreapp3.1\PartA.pdb
+C:\Users\littu\source\repos\MakeFileTest\PartA\obj\Debug\netcoreapp3.1\PartA.genruntimeconfig.cache
